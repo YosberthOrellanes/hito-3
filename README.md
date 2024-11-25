@@ -1,4 +1,5 @@
-participantes 
-Gaby Peñalver
-Pedro Orellanes
-Yosberth Orellanes
+
+participantes :
+1 Gaby Peñalver
+2 Pedro Orellanes
+3 Yosberth Orellanes
